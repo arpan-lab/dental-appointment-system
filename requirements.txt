@@ -1,0 +1,22 @@
+langgraph
+langchain
+langchain-core
+langchain-community
+langchain-groq
+
+pydantic
+pydantic-settings
+python-dotenv
+
+# Database
+sqlalchemy
+pymysql
+
+# Data migration
+pandas
+
+# Frontend
+streamlit
+
+# Testing
+pytest

@@ -1,0 +1,5 @@
+doctor_id,name,specialization,available_days
+D001,Emily Johnson,General Dentist,Monday|Wednesday|Friday
+D002,Michael Smith,Orthodontist,Tuesday|Thursday|Saturday
+D003,Sophia Williams,Periodontist,Monday|Tuesday|Friday
+D004,Daniel Brown,Endodontist,Wednesday|Thursday|Saturday
